@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.1",
     "debug": "^2.6.3",
     "moment": "^2.18.1",
     "uuid": "^3.0.1"
